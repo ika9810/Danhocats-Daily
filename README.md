@@ -1,7 +1,7 @@
 <h1 align="center"> Daily Danhocats </h1> <br>
 <p align="center">
   <a href="https://www.instagram.com/danhocats_daily/">
-    <img alt="GitPoint" title="GitPoint" src="https://raw.githubusercontent.com/ika9810/Danhocats-Daily/main/Banner/HoneyJeansBanner_New.png">
+    <img alt="Danhocats" title="Danhocats" src="https://raw.githubusercontent.com/ika9810/Danhocats-Daily/main/asset/mockup.png">
   </a>
 </p>
 
