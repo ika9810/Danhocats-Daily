@@ -14,9 +14,11 @@ jobs:
     - uses: actions/setup-node@v3
       with:
         node-version: 14.21.2
+        
     - run: npm cache clean -f
-    - run: npm ci
+    - run: npm cache clear --force
     - run: npm i
+    - run: npm ci
     - run: npm run build
     - name: Setup Python
       uses: actions/setup-python@v1
