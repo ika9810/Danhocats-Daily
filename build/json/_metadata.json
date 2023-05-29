@@ -3,9 +3,9 @@
     "name": "DanhoCats #1",
     "description": "<Cat Adoption> Name: Danho Cat Features: Big eyes, cute tail, firm hands Personality: Resolute but delicate We have always loved cats. Danho cats want to repay your kindness. Danhocats take care of themselves to take off your hands. Danhocat’s first words to its owner would be…\"Human, I feed myself.\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "a560e3cf1305c54764d7e4193216a2d03bc0846f",
+    "dna": "80580e11346346fc775913139af9d6c405c2a743",
     "edition": 1,
-    "date": 1685290629281,
+    "date": 1685323084498,
     "attributes": [
       {
         "trait_type": "backgroundC",
@@ -13,11 +13,11 @@
       },
       {
         "trait_type": "backgroundD",
-        "value": "none"
+        "value": "rain"
       },
       {
         "trait_type": "petS",
-        "value": "babk pink"
+        "value": "pink"
       },
       {
         "trait_type": "petF",
@@ -25,11 +25,11 @@
       },
       {
         "trait_type": "skin",
-        "value": "dark indigo"
+        "value": "grey"
       },
       {
         "trait_type": "eye",
-        "value": "double ring"
+        "value": "lash"
       },
       {
         "trait_type": "lip",
@@ -37,7 +37,7 @@
       },
       {
         "trait_type": "cheek",
-        "value": "basicLP"
+        "value": "freckleLP"
       },
       {
         "trait_type": "dot",
@@ -45,7 +45,7 @@
       },
       {
         "trait_type": "acc1",
-        "value": "earing single"
+        "value": "earing cross"
       },
       {
         "trait_type": "acc2",
