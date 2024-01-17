@@ -3,25 +3,25 @@
     "name": "DanhoCats #1",
     "description": "<Cat Adoption> Name: Danho Cat Features: Big eyes, cute tail, firm hands Personality: Resolute but delicate We have always loved cats. Danho cats want to repay your kindness. Danhocats take care of themselves to take off your hands. Danhocat’s first words to its owner would be…\"Human, I feed myself.\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "f1e90a44f47f7771ea21ff7a122387555349188c",
+    "dna": "2c109cb5d1b900851556a441f7ad631f091a3ac8",
     "edition": 1,
-    "date": 1705453734622,
+    "date": 1705479661809,
     "attributes": [
       {
         "trait_type": "backgroundC",
-        "value": "pastel purple"
+        "value": "sky blue"
       },
       {
         "trait_type": "backgroundD",
-        "value": "none"
+        "value": "smile moon"
       },
       {
         "trait_type": "petS",
-        "value": "pink"
+        "value": "violet"
       },
       {
         "trait_type": "petF",
-        "value": "petF 2"
+        "value": "petF 10"
       },
       {
         "trait_type": "skin",
@@ -29,15 +29,15 @@
       },
       {
         "trait_type": "eye",
-        "value": "basic"
+        "value": "lash"
       },
       {
         "trait_type": "lip",
-        "value": "basic"
+        "value": "xp"
       },
       {
         "trait_type": "cheek",
-        "value": "shyLP"
+        "value": "shyP"
       },
       {
         "trait_type": "dot",
@@ -49,7 +49,7 @@
       },
       {
         "trait_type": "acc2",
-        "value": "hairband rabbit"
+        "value": "apple cap"
       },
       {
         "trait_type": "clothes",
