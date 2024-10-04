@@ -3,13 +3,13 @@
     "name": "DanhoCats #1",
     "description": "<Cat Adoption> Name: Danho Cat Features: Big eyes, cute tail, firm hands Personality: Resolute but delicate We have always loved cats. Danho cats want to repay your kindness. Danhocats take care of themselves to take off your hands. Danhocat’s first words to its owner would be…\"Human, I feed myself.\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "7841e133fbf1b13eeabb06eeb3431e64bae59ff4",
+    "dna": "ec8e5675c3838b1f9cc22b26c89a2e15a93bc9c0",
     "edition": 1,
-    "date": 1727946605077,
+    "date": 1728033023352,
     "attributes": [
       {
         "trait_type": "backgroundC",
-        "value": "mint"
+        "value": "london blue"
       },
       {
         "trait_type": "backgroundD",
@@ -17,27 +17,27 @@
       },
       {
         "trait_type": "petS",
-        "value": "violet"
+        "value": "babk pink"
       },
       {
         "trait_type": "petF",
-        "value": "petF 9"
-      },
-      {
-        "trait_type": "skin",
-        "value": "orange"
-      },
-      {
-        "trait_type": "eye",
-        "value": "underlash"
-      },
-      {
-        "trait_type": "lip",
         "value": "basic"
       },
       {
+        "trait_type": "skin",
+        "value": "white"
+      },
+      {
+        "trait_type": "eye",
+        "value": "footprint"
+      },
+      {
+        "trait_type": "lip",
+        "value": "smile"
+      },
+      {
         "trait_type": "cheek",
-        "value": "basicLP"
+        "value": "heartLP"
       },
       {
         "trait_type": "dot",
@@ -45,15 +45,15 @@
       },
       {
         "trait_type": "acc1",
-        "value": "earing single"
+        "value": "earing cross"
       },
       {
         "trait_type": "acc2",
-        "value": "hairband rabbit"
+        "value": "crossbag"
       },
       {
         "trait_type": "clothes",
-        "value": "tshirt2"
+        "value": "none"
       }
     ],
     "compiler": "HashLips Art Engine"
