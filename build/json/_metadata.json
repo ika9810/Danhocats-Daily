@@ -3,53 +3,53 @@
     "name": "DanhoCats #1",
     "description": "<Cat Adoption> Name: Danho Cat Features: Big eyes, cute tail, firm hands Personality: Resolute but delicate We have always loved cats. Danho cats want to repay your kindness. Danhocats take care of themselves to take off your hands. Danhocat’s first words to its owner would be…\"Human, I feed myself.\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "df8b8fd987fab02be2137b4394d5618f480477b6",
+    "dna": "7ae61f5003e07ed2b8adde0bcf12169f56bdba68",
     "edition": 1,
-    "date": 1751533954682,
+    "date": 1751620322235,
     "attributes": [
       {
         "trait_type": "backgroundC",
-        "value": "gucci blue"
+        "value": "pink grey"
       },
       {
         "trait_type": "backgroundD",
-        "value": "rain"
+        "value": "none"
       },
       {
         "trait_type": "petS",
-        "value": "babk pink"
+        "value": "violet"
       },
       {
         "trait_type": "petF",
-        "value": "petF 2"
-      },
-      {
-        "trait_type": "skin",
-        "value": "blue"
-      },
-      {
-        "trait_type": "eye",
-        "value": "footprint"
-      },
-      {
-        "trait_type": "lip",
-        "value": "vampire"
-      },
-      {
-        "trait_type": "cheek",
-        "value": "lovelyC"
-      },
-      {
-        "trait_type": "dot",
         "value": "basic"
       },
       {
+        "trait_type": "skin",
+        "value": "indigo"
+      },
+      {
+        "trait_type": "eye",
+        "value": "ring"
+      },
+      {
+        "trait_type": "lip",
+        "value": "xp"
+      },
+      {
+        "trait_type": "cheek",
+        "value": "basicC"
+      },
+      {
+        "trait_type": "dot",
+        "value": "none"
+      },
+      {
         "trait_type": "acc1",
-        "value": "earing dot3"
+        "value": "earing dot"
       },
       {
         "trait_type": "acc2",
-        "value": "apple cap"
+        "value": "cap"
       },
       {
         "trait_type": "clothes",
