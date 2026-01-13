@@ -3,17 +3,17 @@
     "name": "DanhoCats #1",
     "description": "<Cat Adoption> Name: Danho Cat Features: Big eyes, cute tail, firm hands Personality: Resolute but delicate We have always loved cats. Danho cats want to repay your kindness. Danhocats take care of themselves to take off your hands. Danhocat’s first words to its owner would be…\"Human, I feed myself.\"",
     "image": "https://ika9810.github.io/Honey-Jeans/build/images/1.png",
-    "dna": "105e08913419dc7860a9b51ddde253d195b545ba",
+    "dna": "bfa425bfd5d4992d0c9995bac28307a809232b22",
     "edition": 1,
-    "date": 1768209749111,
+    "date": 1768295950135,
     "attributes": [
       {
         "trait_type": "backgroundC",
-        "value": "green"
+        "value": "gucci blue"
       },
       {
         "trait_type": "backgroundD",
-        "value": "none"
+        "value": "rain"
       },
       {
         "trait_type": "petS",
@@ -21,15 +21,15 @@
       },
       {
         "trait_type": "petF",
-        "value": "petF 4"
+        "value": "petF 7"
       },
       {
         "trait_type": "skin",
-        "value": "dark blue"
+        "value": "light grey"
       },
       {
         "trait_type": "eye",
-        "value": "lash"
+        "value": "underlash"
       },
       {
         "trait_type": "lip",
@@ -37,7 +37,7 @@
       },
       {
         "trait_type": "cheek",
-        "value": "basicP"
+        "value": "freckleC"
       },
       {
         "trait_type": "dot",
@@ -45,7 +45,7 @@
       },
       {
         "trait_type": "acc1",
-        "value": "pattern crown"
+        "value": "earing single"
       },
       {
         "trait_type": "acc2",
@@ -53,7 +53,7 @@
       },
       {
         "trait_type": "clothes",
-        "value": "none"
+        "value": "tshirt1"
       }
     ],
     "compiler": "HashLips Art Engine"
